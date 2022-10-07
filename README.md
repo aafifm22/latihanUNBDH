@@ -10,9 +10,10 @@ Menu Latihan:
 5. Power BI (4/10) - Razis
 
 More learning platforms:
-https://www.datacamp.com/
-https://www.hackerrank.com/
-https://www.freecodecamp.org/
+
+- https://www.datacamp.com/
+- https://www.hackerrank.com/
+- https://www.freecodecamp.org/
 
 Senjata ampuh:
 https://www.useblackbox.io/landingPage
