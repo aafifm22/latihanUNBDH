@@ -7,7 +7,7 @@ Menu Latihan:
 2. Basic Python Pandas, EDA, Basic ML  (14/10/2022) - Bayu
 3. SQL (21/10) - Afif
 4. Statistics (28/10) - Ulan
-5. Power BI (4/10) - Razis
+5. Power BI (4/11) - Razis
 
 More learning platforms:
 
