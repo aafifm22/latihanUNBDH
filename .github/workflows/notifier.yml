@@ -8,31 +8,6 @@ on:
 
 jobs:
 
-  messageSlack:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Notification Slack
-      uses: rtCamp/action-slack-notify@v2
-      env:
-        SLACK_CHANNEL: ci
-        SLACK_TITLE: Post Title
-        SLACK_USERNAME: BotCI
-        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
-        SLACK_MESSAGE: "This is your custom message."
-
-  notifyWhatsApp:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-      - name: Notification WhatsApp
-        id: whatsapp-notify
-        env:
-          account_sid: ${{ secrets.twilio_account_sid }}
-          auth_token: ${{ secrets.twilio_auth_token }}
-          to_whatsapp_no: ${{ secrets.twilio_to_whatsapp_no }}
-          message: "CI 👉🏻 Your message here..."
-        uses: khaled-ibtikar/whatsapp-push-notify-action@master
-        
   notifyTelegram:
     runs-on: ubuntu-latest
     steps:
