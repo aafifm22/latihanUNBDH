@@ -1,1 +1,6 @@
-https://python.plainenglish.io/10-python-scripts-to-automate-your-bussines-9b58e92dfe93
+Source materi belajar python:
+
+1. https://python.plainenglish.io/10-python-scripts-to-automate-your-bussines-9b58e92dfe93
+
+2. https://gist.github.com/LeenSrouji/b66cc20b6f45a83370c1ea3a2c19f230
+
