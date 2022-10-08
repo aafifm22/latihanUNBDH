@@ -17,5 +17,5 @@ jobs:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
         message: |
-          |  #https://github.com/aafifm22/latihanUNBDH updated!
+          |  https://github.com/aafifm22/latihanUNBDH updated!
           ${{ github.event_name }} commit in ${{ github.repository }} by "${{ github.actor }}". [${{github.sha}}@${{ github.ref }}]
