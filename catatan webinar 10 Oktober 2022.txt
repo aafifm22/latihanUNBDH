@@ -1,0 +1,44 @@
+Data Sources:
+
+--- 1st presenter
+
+hdx-python-api: https://pypi.org/project/hdx-python-api/
+
+hdx-python-api documentation: https://hdx-python-api.readthedocs.io/en/latest/
+
+https://data.humdata.org/
+
+https://sdmx.data.unicef.org/webservice/data.html
+
+AIS introductory e-learning (30 min): https://learning.officialstatistics.org/course/view.php?id=84
+
+thamrinf@un.org
+
+---- 2nd presenter
+https://wrp.lrfoundation.org.uk/data-resources/interactive_resillience_index/
+aaron.gardner@lrfoundation.org.uk 
+
+Data from published reports is freely available. For future reports and other datasets our general email is: worldriskpoll@lrfoundation.org.uk
+
+---- 3rd presenter
+
+...
+
+---- Q & A Session
+
+Q: Is what is being shared now for the expert track?
+
+A: No - this is for both tracks. We are sharing what the data sources look like and how you can start exploring them - we have three speakers for 3 of the main data sources
+
+
+Q: Can we get the data sources for the youth track again? I missed it. Would we get access to the slides?
+
+A:Yes we will share the slides via e-mail
+
+---
+Q: Does curated datasets mean we can only use these data selected datasets during the hackathon?
+
+A: No! You can definitely include other public data sets too (again, public not private). We just want to share a set of datasets to make it easier on you
+
+
+Information: The theme for the Hackathon will be revealed on the 31st of October. 
